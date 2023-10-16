@@ -1,3 +1,8 @@
+To run this project, simply download it in your local environment and execute the following commands from the project directory.
+
+- npm i ( Install node modules)
+- npm run dev ( starting local server using React Vite)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
